@@ -1,4 +1,4 @@
-# Algebraic theories.
+# Algebraic theories
 
 ### Time.
 Tuesdays 11.00-12.45.
