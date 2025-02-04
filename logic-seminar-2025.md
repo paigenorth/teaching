@@ -8,7 +8,7 @@ BBG 005
 
 ### Participants
 - Instructor: Paige Randall North
-- Participants:
+- Participants: Edward van de Meent, Harm Verheggen, Rob Schellingerhout, Sara Rousta
 - Visitors: 
 
 ### Description.
@@ -55,19 +55,19 @@ homework = combined output for homework assignments
 
 | Date | Subject | Speaker |
 |------|---------|---------|
-| 4 February	| 1. Algebraic theories and algebraic categories	| |
+| 4 February	| 1. Algebraic theories and algebraic categories	| Sara |
 | |	2. Sifted and filtered colimits |	|
-| 11 February	| 3. Reflexive coequalizers	| |
+| 11 February	| 3. Reflexive coequalizers	| Harm |
 | |	4. Algebraic categories and free completions	| |
-| 18 February	| 5. Properties of algebras	| |
+| 18 February	| 5. Properties of algebras	| Rob |
 | |	6. A characterization of algebraic categories	| |
-| 25 February	| 7. From filtered to sifted	| |
+| 25 February	| 7. From filtered to sifted	|Edward |
 | |	8. Canonical theories	| |
-| 4 March |	9. Algebraic functors	| |
+| 4 March |	9. Algebraic functors	| Sara |
 | |	10. Birkhoff’s Variety Theorem	| |
-| 11 March	| 11. One-sorted algebraic theories	| |
+| 11 March	| 11. One-sorted algebraic theories	| Harm |
 | | 	12. Algebras for an endofunctor	| |
-| 18 March	| 13. Equational categories of Σ-algebras | |	
+| 18 March	| 13. Equational categories of Σ-algebras | Rob |	
 | |	14. S-sorted algebraic categories	| |
 | 25 March | | |
 | 1 April | | |
