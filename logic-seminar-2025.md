@@ -1,7 +1,7 @@
 # Algebraic theories
 
 ### Time.
-Tuesdays 11.00-12.45.
+Tuesdays 11.00-12.45
 
 ### Place.
 BBG 005
