@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+title: 
 github:
   is_project_page: false
 titles_from_headings:
