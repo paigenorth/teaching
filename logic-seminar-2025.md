@@ -26,9 +26,7 @@ The primary text we will be following is *Algebraic theories* (Adámek, Rosický
 - Clans and Gabriel-Ulmer duality (_Duality for Clans: an Extension of Gabriel-Ulmer Duality_, Frey)
 
 ### Format and evaluation.
-The seminar is aimed at master students interested in Logic. There is a maximum number of (active) participants of 10. Participants are expected to give at least three presentations of 45 minutes each. Since each session consists of 2x45 minutes, students work in a "team" of 2, and work in collaboration. Moreover, each team devises 1 or 2 homework exercises, which are solved by the other students, graded by the team. Simultaneously with handing out the homework, the team hands a "model solution" to the teacher. Students are encouraged to give feedback to each other.
-
-If there are few students, we will opt for a hybrid form: seminar/reading group. Every meeting, one of the participants will be responsible for spotting difficulties in the text, gaps in proofs and so on, and for fixing these. This participant (the "speaker") may also be called to present stuffing at the blackboard.
+The seminar is aimed at master students interested in the Logic and Foundations of Computing track. As there are few students, we will opt for a hybrid form: seminar/reading group. Every meeting, one of the participants will be responsible for spotting difficulties in the text, gaps in proofs and so on, and for fixing these. This participant (the "speaker") may also be called to present stuffing at the blackboard. Moreover, each speaker devises 1 homework exercise, which is solved by the other students, graded by the speaker. Simultaneously with handing out the homework, the team hands a "model solution" to the teacher. Students are encouraged to give feedback to each other.
 
 ### Learning goals.
 After completion of the course, the student is able to:
