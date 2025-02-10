@@ -44,7 +44,7 @@ After completion of the course, the student is able to:
 | effective communication of the material	| 20%	| 0 |
 | formulating and correcting homework	| 0	| 10% |
 
-For "understanding the material (presentations)", we will use the "correctness of exposition" rubric [here](https://students.uu.nl/sites/default/files/beta_wiskunde_bachelor_scriptie_evaluatie-3.pdf) and for "effective communication of the material", we will use the "performance descriptions of presentations" rubric in the same document. For "understanding the material (homework)", points for each part of each homework problem will be clearly indicated by the speaker(s). For "formulating and correcting homework", the default will be 10 as long as the homework is graded in a timely manner, and the students work with the instructor to correct any problems that arise.
+For "understanding the material (presentations)", "effective communication of the material", and "formulating and correcting homework" we will use the rubric [here](rubric.pdf). Note that for "formulating and correcting homework", the default will be 10/10 as long as the homework is graded in a timely manner, and the students work with the instructor to correct any problems that arise. For "understanding the material (homework)", points for each part of each homework problem will be clearly indicated by the speaker(s). 
 
 presentations = presentations and following discussion
 homework = combined output for homework assignments
