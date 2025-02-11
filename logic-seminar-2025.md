@@ -55,17 +55,17 @@ homework = combined output for homework assignments
 |------|---------|---------|
 | 11 February	| 1. Algebraic theories and algebraic categories	| Sara |
 | |	2. Sifted and filtered colimits |	|
-| 18 February	| 3. Reflexive coequalizers	| Harm |
+| 18 February	| 3. Reflexive coequalizers	| Harm & Rob |
 | |	4. Algebraic categories and free completions	| |
-| 25 February	| 5. Properties of algebras	| Rob |
+| 25 February	| 5. Properties of algebras	| Sara & Edward |
 | |	6. A characterization of algebraic categories	| |
-| 4 March	| 7. From filtered to sifted	|Edward |
+| 4 March	| 7. From filtered to sifted	| |
 | |	8. Canonical theories	| |
-| 11 March |	9. Algebraic functors	| Sara |
+| 11 March |	9. Algebraic functors	|  |
 | |	10. Birkhoff’s Variety Theorem	| |
-| 18 March	| 11. One-sorted algebraic theories	| Harm |
+| 18 March	| 11. One-sorted algebraic theories	|  |
 | | 	12. Algebras for an endofunctor	| |
-| 25 March	| 13. Equational categories of Σ-algebras | Rob |	
+| 25 March	| 13. Equational categories of Σ-algebras |  |	
 | |	14. S-sorted algebraic categories	| |
 | 1 April | | |
 | 8 April | | |
@@ -73,5 +73,7 @@ homework = combined output for homework assignments
 | 22 April | (3rd day of Easter)| |
 | 29 April| | |
 
+### Homework
+- [Homework 1](HW1.pdf), due 25 Feb
 
 
