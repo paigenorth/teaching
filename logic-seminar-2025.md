@@ -59,7 +59,7 @@ homework = combined output for homework assignments
 | |	4. Algebraic categories and free completions	| |
 | 4 March	| 5. Properties of algebras	| Sara & Edward |
 | |	6. A characterization of algebraic categories	| |
-| 18 March March	| 7. From filtered to sifted	| |
+| 18 March	| 7. From filtered to sifted	| |
 | |	8. Canonical theories	| |
 | 25 March |	9. Algebraic functors	|  |
 | |	10. Birkhoff’s Variety Theorem	| |
