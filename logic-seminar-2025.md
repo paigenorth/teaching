@@ -69,7 +69,8 @@ homework = combined output for homework assignments
 | |	14. S-sorted algebraic categories	| |
 
 ### Homework
-- [Homework 1](HW1.pdf), due 25 February
+- [Homework 1](HW1.pdf) ([Solutions](HW1-solutions.pdf)), due 25 February
 - [Homework 2](Seminar_HW2.pdf), due 4 March
+- [Homework 3](HW3_ALgT.pdf), due 1 April
 
 
