@@ -61,9 +61,9 @@ homework = combined output for homework assignments
 | |	6. A characterization of algebraic categories	| |
 | 18 March	| 7. From filtered to sifted	| Harm & Rob |
 | |	8. Canonical theories	| |
-| 25 March |	9. Algebraic functors	| Sara & ? |
+| 25 March |	9. Algebraic functors	| Sara & Harm |
 | |	10. Birkhoff’s Variety Theorem	| |
-| 1 April	| 11. One-sorted algebraic theories	|  |
+| 1 April	| 11. One-sorted algebraic theories	| Edward & Rob |
 | | 	12. Algebras for an endofunctor	| |
 | 8 April	| 13. Equational categories of Σ-algebras |  |	
 | |	14. S-sorted algebraic categories	| |
@@ -73,5 +73,6 @@ homework = combined output for homework assignments
 - [Homework 2](Seminar_HW2.pdf) ([Solutions](HW2_ALGT_solution[26].pdf), due 4 March
 - [Homework 3](HW3_ALgT.pdf), due 1 April
 - [Homework 4](HW4_ALGT[30].pdf), due 8 April
+- [Homework 5](Seminar_HW5[89].pdf), due 15 April
 
 
