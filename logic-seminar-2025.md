@@ -70,9 +70,10 @@ homework = combined output for homework assignments
 
 ### Homework
 - [Homework 1](HW1.pdf) ([Solutions](HW1-solutions.pdf)), due 25 February
-- [Homework 2](Seminar_HW2.pdf) ([Solutions](HW2_ALGT_solution[26].pdf), due 4 March
+- [Homework 2](Seminar_HW2.pdf) ([Solutions](HW2_ALGT_solution[26].pdf)), due 4 March
 - [Homework 3](HW3_ALgT.pdf), due 1 April
 - [Homework 4](HW4_ALGT[30].pdf), due 8 April
 - [Homework 5](Seminar_HW5[89].pdf), due 15 April
+- [Homework 6](logic_seminar_homework_rob_edward.pdf), due 22 April
 
 
